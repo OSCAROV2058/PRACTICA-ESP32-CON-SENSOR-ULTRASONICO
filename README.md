@@ -32,7 +32,7 @@ const int Trigger = 4;   //Pin digital 2 para el Trigger del sensor
 const int Echo = 15;   //Pin digital 3 para el Echo del sensor
 
 void setup() {
-  Serial.begin(9600);//iniciailzamos la comunicación
+  Serial.begin(9600);//inicializamos la comunicación
   pinMode(Trigger, OUTPUT); //pin como salida
   pinMode(Echo, INPUT);  //pin como entrada
   digitalWrite(Trigger, LOW);//Inicializamos el pin con 0
@@ -45,7 +45,7 @@ void setup() {
 void loop()
 {
 
-  long t; //timepo que demora en llegar el eco
+  long t; //tiempo que demora en llegar el eco
   long d; //distancia en centimetros
 
   digitalWrite(Trigger, HIGH);
