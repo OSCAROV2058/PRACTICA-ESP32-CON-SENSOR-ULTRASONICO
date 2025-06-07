@@ -90,12 +90,11 @@ lcd.clear();
 
 2. Instalar la libreria de LiquidCrystal I2C como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO/blob/main/image%20(9).png?raw=true)
 
 3. Hacer la conexion del sensor ultrasonico y LCD con la ESP32 como se muestra en la siguente imagen.
 
-![]()
-
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO/blob/main/image%20(8).png?raw=true)
 
 ## Instrucciónes de operación
 
@@ -109,13 +108,13 @@ lcd.clear();
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en las siguentes imagenes.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO/blob/main/image%20(10).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO/blob/main/image%20(11).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO/blob/main/image%20(12).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-SENSOR-ULTRASONICO/blob/main/image%20(13).png?raw=true)
 
 ## Creditos
 
